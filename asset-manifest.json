@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MissLiner/cv-project.git/static/css/main.550d8281.css",
-    "main.js": "/MissLiner/cv-project.git/static/js/main.a92c89c4.js",
-    "static/js/787.aebc617e.chunk.js": "/MissLiner/cv-project.git/static/js/787.aebc617e.chunk.js",
-    "index.html": "/MissLiner/cv-project.git/index.html",
-    "main.550d8281.css.map": "/MissLiner/cv-project.git/static/css/main.550d8281.css.map",
-    "main.a92c89c4.js.map": "/MissLiner/cv-project.git/static/js/main.a92c89c4.js.map",
-    "787.aebc617e.chunk.js.map": "/MissLiner/cv-project.git/static/js/787.aebc617e.chunk.js.map"
+    "main.css": "/cv-project/static/css/main.550d8281.css",
+    "main.js": "/cv-project/static/js/main.40146b90.js",
+    "static/js/787.aebc617e.chunk.js": "/cv-project/static/js/787.aebc617e.chunk.js",
+    "index.html": "/cv-project/index.html",
+    "main.550d8281.css.map": "/cv-project/static/css/main.550d8281.css.map",
+    "main.40146b90.js.map": "/cv-project/static/js/main.40146b90.js.map",
+    "787.aebc617e.chunk.js.map": "/cv-project/static/js/787.aebc617e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.550d8281.css",
-    "static/js/main.a92c89c4.js"
+    "static/js/main.40146b90.js"
   ]
 }
